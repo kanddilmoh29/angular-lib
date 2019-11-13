@@ -12,7 +12,8 @@ import { InputComponent } from './lib/forms/input/input.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
